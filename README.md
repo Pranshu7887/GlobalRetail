@@ -45,7 +45,8 @@ Execute the ETL Pipeline:
 Query the Results:
 - Use SQL or Python to query the final aggregated data stored in the gold layer (e.g., gold_category_sales, gold_daily_sales) to generate business insights.
 
-##Project Structure
+## Project Structure
+
 globalretail/
 ├── bronze/
 │   ├── bronze_customer
